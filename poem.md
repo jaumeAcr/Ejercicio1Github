@@ -1,6 +1,6 @@
-Roses are red,
+Roses are #ff0000,
 
-Violets are blue.
+Violets are #0000ff.
 
 All of my base
 
