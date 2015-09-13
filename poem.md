@@ -1,3 +1,5 @@
+# Roses and Violets for Git.
+
 Roses are #ff0000,
 
 Violets are #0000ff.
