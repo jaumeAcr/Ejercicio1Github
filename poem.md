@@ -1,6 +1,6 @@
-Roses are red,
+Red pills are red,
 
-Violets are blue.
+Blue pills are blue.
 
 All of my base
 
